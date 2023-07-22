@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ajjayya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamajjayya&label=Profile%20views&color=0e75b6&style=flat" alt="iamajjayya" /> </p>
 
 - 👋 Hi, I’m @iamajjayya
-- 👀 I’m interested in React Js, Python
+- 👀 I’m interested in Front End, Python
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me ajjayya2002@gmail.com
 <h3 align="left">Connect with me:</h3>
