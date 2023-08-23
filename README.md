@@ -5,7 +5,6 @@
 
 - 👋 Hi, I’m @iamajjayya
 - 👀 I’m interested in Front End, Python
-- 🌱 I’m currently learning AWS
 - 📫 How to reach me ajjayya2002@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
