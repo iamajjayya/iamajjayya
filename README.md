@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamajjayya&label=Profile%20views&color=0e75b6&style=flat" alt="iamajjayya" /> </p>
 
 - 👋 Hi, I’m @iamajjayya
-- 👀 I’m interested in Front End, Python
+- 👀 I’m interested in Front End,
 - 📫 How to reach me ajjayya2002@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
