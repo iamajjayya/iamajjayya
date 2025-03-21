@@ -15,14 +15,23 @@
 <section id="skills" style="margin-top: 40px;">
   <h2 style="text-align: center;">💻 Languages and Tools</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <!-- HTML -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" />
+    <!-- CSS -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" />
+    <!-- JavaScript -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" />
+    <!-- Python -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" />
-    <img src="https://www.vectorlogo.zone/logos/selenium/selenium-icon.svg" alt="Selenium" width="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" />
+    <!-- Selenium -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="50" />
+    <!-- Git -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" />
+    <!-- GitHub -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" />
-    <img src="https://docs.pytest.org/en/stable/_static/pytest_logo.png" alt="Pytest" width="50" />
+    <!-- Pytest -->
+    <img src="https://avatars.githubusercontent.com/u/13833892?s=200&v=4" alt="Pytest" width="50" />
+    <!-- SQL -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" />
   </div>
 </section>
